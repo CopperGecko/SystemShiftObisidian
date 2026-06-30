@@ -1,0 +1,1 @@
+Crushes targets under extreme G-force, heavily slowing their movement speed and reducing their damage output.

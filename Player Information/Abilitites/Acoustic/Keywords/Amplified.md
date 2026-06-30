@@ -1,0 +1,1 @@
+Weapon fire rate, reload speed, and handling are increased. While active, your weapons fire micro-sonic rounds that deal damage to shields.

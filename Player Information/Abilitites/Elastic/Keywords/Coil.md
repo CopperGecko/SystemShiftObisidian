@@ -1,0 +1,1 @@
+Increases slide distance, weapon swap speed, and melee lunge range. Max stacks cause your next physical action (jump, slide, or dodge) to unleash a shockwave. Stacks up to 3x

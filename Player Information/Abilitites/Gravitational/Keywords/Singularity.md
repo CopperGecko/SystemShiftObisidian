@@ -1,0 +1,1 @@
+Enemies are trapped in a dense localized gravity well, dragging them toward the player.

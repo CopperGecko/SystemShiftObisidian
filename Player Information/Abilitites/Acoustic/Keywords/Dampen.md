@@ -1,0 +1,1 @@
+Causes the target to have shorten vision, reduced hearing, and slowed movement.

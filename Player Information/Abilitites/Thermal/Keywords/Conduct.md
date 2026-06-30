@@ -1,0 +1,1 @@
+Buffs weapon damage and shots to go through armor. Stacks up to 5 with diminishing returns, at 5 stacks +1/s

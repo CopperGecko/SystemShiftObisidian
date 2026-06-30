@@ -1,0 +1,1 @@
+Binds a target to a point via a high-tension line. If they try to run, the line stretches taut and violently snaps them back to the center, dealing heavy impact damage.

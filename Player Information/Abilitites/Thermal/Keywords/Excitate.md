@@ -1,0 +1,1 @@
+Targets gain rapid molecular movement, taking damage over time. If they die while Excitated, they burst, sometimes Excitating a nearby enemy.

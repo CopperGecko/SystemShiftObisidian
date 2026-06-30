@@ -1,0 +1,1 @@
+Whenever a target afflicted by this takes any damage, they emit minor sonic pings that damage adjacent enemies.

@@ -1,0 +1,1 @@
+Puts the target's armor under maximum mechanical tension. Strained enemies take much more precision damage, and breaking their shield causes them to burst into shrapnel.

@@ -1,0 +1,1 @@
+Projectiles or debris are pulled into a protective shield circling the player, mitigating incoming damage. The more projectiles pulled, the better it gets. up to 80% DR

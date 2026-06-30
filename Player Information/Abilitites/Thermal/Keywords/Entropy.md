@@ -1,0 +1,1 @@
+Affected enemies suffer reduced accuracy and erratic movement as their systems overheat.

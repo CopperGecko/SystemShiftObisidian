@@ -1,0 +1,1 @@
+Defeating an enemy with a precision kinetic hit instantly refunds 10% of your grenade and melee energy.

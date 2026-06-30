@@ -4,5 +4,5 @@ Base (Decibel Grenade):
 
 Ultimate (Cacophony Sphere):
 - Active when meter is at exactly 100.
-- Throws an acoustic singularity. Upon impact, it expands into a massive dome of absolute silence that inflicts [[Dampen]] on all trapped enemies. For the player and allies inside, standing in the dome grants the [[Amplified]] buff.
+- Throws an acoustic singularity. Upon impact, it expands into a massive dome of absolute silence that inflicts [[Dampen]] on all trapped enemies. For the player and allies inside, standing in the dome grants [[Amplified]] and [[Harmony]]
 - Drains meter to 0.

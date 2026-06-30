@@ -1,5 +1,5 @@
 Base (Radiator Cell):
-- Throws a thermodynamic device that adheres to surfaces, rapidly draining local energy to create a heat-sink dome. Enemies inside are afflicted with [[Entropy]].
+- Throws a thermodynamic device that adheres to surfaces, rapidly draining local energy to create a heat-sink dome. Enemies inside are afflicted with [[Entropy]], While allies are given [[Tempered]].
 - +20 Energy
 
 Ultimate (Convective Vortex):

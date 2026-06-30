@@ -1,0 +1,1 @@
+Your frequencies synchronize, reducing incoming force and improving stability.

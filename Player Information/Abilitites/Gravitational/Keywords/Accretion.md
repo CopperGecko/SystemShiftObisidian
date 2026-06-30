@@ -1,0 +1,1 @@
+Increases damage as potential energy accumulates. More stacks = more damage boost

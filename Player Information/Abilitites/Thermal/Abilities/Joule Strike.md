@@ -1,5 +1,5 @@
 Base (Joule Strike): 
-- A blazing open-palm thrust that [[Excitate]]s a single target.
+- A blazing open-palm thrust that [[Excitate]]s a single target. Grants [[Tempered]] to you and nearby allies.
 - +15 Energy
 
 Ultimate (Absolute Zero Purge):

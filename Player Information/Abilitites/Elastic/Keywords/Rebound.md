@@ -1,0 +1,1 @@
+Stored elastic energy absorbs impacts and returns momentum.

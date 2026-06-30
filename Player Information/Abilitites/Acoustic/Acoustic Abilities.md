@@ -9,3 +9,4 @@ Keywords:
 - [[Resonance]]
 - [[Amplified]]
 - [[Dampen]]
+- [[Harmony]]

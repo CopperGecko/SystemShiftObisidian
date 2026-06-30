@@ -1,0 +1,1 @@
+Getting a multikill with your potential weapon causes your next kinetic weapon shot to deal 25% more damage.

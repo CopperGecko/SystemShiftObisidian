@@ -1,0 +1,1 @@
+Falling or dropping from a height greater than 3 meters imbues your next melee strike or ground slam with an explosive kinetic shockwave.

@@ -1,0 +1,1 @@
+While [[Tempered]] is active, applying [[Entropy]] stores a portion of the damage prevented. When [[Tempered]] expires, your next Thermal ability releases the stored energy as bonus damage.

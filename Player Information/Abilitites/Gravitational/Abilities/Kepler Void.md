@@ -1,5 +1,5 @@
 Base (Kepler Void):
-- Throws a singularity core that creates a vortex, triggering [[Singularity]] to pull in minor mobs and collect loose drops to a single point.
+- Throws a singularity core that creates a vortex, triggering [[Singularity]] to pull in minor mobs and collect loose drops to a single point. Grants [[Accretion]]
 - -20 Energy
 
 Ultimate (Supermassive Well):

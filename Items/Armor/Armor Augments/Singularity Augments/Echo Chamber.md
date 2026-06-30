@@ -1,0 +1,1 @@
+Damaging an enemy with [[Resonance]] consumes it, granting you [[Harmony]]. If the enemy was [[Dampen]]ed, nearby allies also gain [[Harmony]].

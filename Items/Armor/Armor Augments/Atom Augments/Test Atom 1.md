@@ -1,0 +1,1 @@
+Increases melee ability lunge range.

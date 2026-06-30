@@ -1,5 +1,5 @@
 Base (Tuning Strike): 
-- A swift palm strike that sends a high-frequency vibration through the target, pushing them back and inflicting [[Resonance]].
+- A swift palm strike that sends a high-frequency vibration through the target, pushing them back and inflicting [[Resonance]]. Grants a short period of [[Amplified]]
 - +15 Energy
 
 Ultimate (Shatterpoint Clap):

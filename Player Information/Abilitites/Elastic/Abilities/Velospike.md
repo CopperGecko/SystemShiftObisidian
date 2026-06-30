@@ -1,5 +1,5 @@
 Base (Velospike):
-- Thrust a high-velocity spike that nails an enemy to the floor or wall, inflicting [[Tether]].
+- Thrust a high-velocity spike that nails an enemy to the floor or wall, inflicting [[Tether]]. Hitting an enemy with this ability grants [[Rebound]]
 - -15 Energy
 
 Ultimate (Giant Velospike)

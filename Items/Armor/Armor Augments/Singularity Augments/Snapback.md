@@ -1,0 +1,1 @@
+When [[Tether]] is removed from an enemy (by distance, death, or an ability), you immediately gain a speed boost proportional to your [[Coil]] stacks and your next Elastic ability has reduced cooldown.

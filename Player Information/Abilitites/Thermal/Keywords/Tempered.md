@@ -1,0 +1,1 @@
+Extreme heat strengthens your structure against incoming damage.

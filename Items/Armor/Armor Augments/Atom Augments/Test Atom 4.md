@@ -1,0 +1,1 @@
+Thrown abilities travel faster and further

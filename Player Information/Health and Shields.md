@@ -1,2 +1,2 @@
 The player's health will always be 100, additional amounts of damage resistance can be given. The mass stat in armor is a good example of damage resistance. visually, damage resistance will show up as a simple and readable overlay on the health bar. this is because damage resistance can never go above 100% and this way its obvious how much you have.
-The bottom 15 health that you have is critical, when you get to critical health you are given warnings and it can trigger other [[Weapon Augment]], [[Armor Augment]], or ability buffs. 
+The bottom 20 health that you have is critical, when you get to critical health you are given warnings and it can trigger other [[Weapon Augment]], [[Armor Augment]], or ability buffs. 

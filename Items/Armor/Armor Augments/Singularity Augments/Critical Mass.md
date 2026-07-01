@@ -1,1 +1,1 @@
-Applying [[Singularity]] to an enemy grants 1 stack of [[Accretion]]. Reaching maximum [[Accretion]] refreshes [[Orbit]].
+Applying [[Singularity]] to an enemy grants 1 stack of [[Accretion]]. Reaching maximum [[Accretion]] periodically refreshes [[Orbit]].

@@ -1,0 +1,1 @@
+Defeating an enemy grants bonus reload speed for 5 seconds.

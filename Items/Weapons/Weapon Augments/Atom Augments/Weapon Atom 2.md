@@ -1,0 +1,1 @@
+Precision hits have a chance to refund the round to the magazine.

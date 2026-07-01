@@ -1,0 +1,1 @@
+Increase reload speed and weapon swap speed.

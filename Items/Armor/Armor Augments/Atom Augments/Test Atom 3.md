@@ -1,1 +1,0 @@
-Increases your reload speed by 15% if you reload while your magazine is completely empty.

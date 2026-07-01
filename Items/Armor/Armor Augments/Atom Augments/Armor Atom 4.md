@@ -1,0 +1,1 @@
+[[Energy Orbs]] grant a small amount of ability energy towards all abilities.

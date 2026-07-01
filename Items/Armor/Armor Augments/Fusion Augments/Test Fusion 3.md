@@ -1,1 +1,0 @@
-When surrounded by 3 or more enemies, you get a 20% damage resistance shield.

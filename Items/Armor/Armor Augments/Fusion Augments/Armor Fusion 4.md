@@ -1,0 +1,1 @@
+Applying [[Conduct]] or [[Tempered]] restores a small amount of health. Defeating an afflicted enemy reduces your ability cooldowns slightly.

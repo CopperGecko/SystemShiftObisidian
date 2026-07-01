@@ -1,0 +1,1 @@
+Energy orbs are an occasional drop (increased by [[Weapon Augment]]s and [[Armor Augment]]s), at base they give 5 energy in the direction of the spawn reason (thermal death = kinetic orb, elastic ultimate = potential orb). Their effects can be changed and increased through many different Augments.

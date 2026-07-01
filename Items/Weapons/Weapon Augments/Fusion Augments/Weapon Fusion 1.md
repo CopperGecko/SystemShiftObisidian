@@ -1,0 +1,1 @@
+Defeating an enemy increases damage for 5 seconds, stacking up to 3 times. Kills refresh the timer.

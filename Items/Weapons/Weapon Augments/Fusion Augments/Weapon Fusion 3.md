@@ -1,0 +1,1 @@
+Damaging enemies affected by [[Collapse]] or [[Singularity]] grants increased weapon reload speed. Precision kills on affected enemies partially refill the magazine.

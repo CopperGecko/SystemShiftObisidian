@@ -1,0 +1,1 @@
+Damaging enemies affected by [[Dampen]] or [[Resonance]] grants stacking precision damage. Precision kills while fully stacked emit a small pulse that briefly grants nearby allies [[Harmony]].

@@ -18,13 +18,15 @@ Singularity Augments:
 - [[Heat Sink]]
 
 Fusion Augments:
-- [[Test Fusion 1]]
-- [[Test Fusion 2]]
-- [[Test Fusion 3]]
-- [[Test Fusion 4]]
+- [[Armor Fusion 1]]
+- [[Armor Fusion 2]]
+- [[Armor Fusion 3]]
+- [[Armor Fusion 4]]
+- [[Armor Fusion 5]]
+- [[Armor Fusion 6]]
 
 Atom Augments:
-- [[Test Atom 1]]
-- [[Test Atom 2]]
-- [[Test Atom 3]]
-- [[Test Atom 4]]
+- [[Armor Atom 1]]
+- [[Armor Atom 2]]
+- [[Armor Atom 3]]
+- [[Armor Atom 4]]

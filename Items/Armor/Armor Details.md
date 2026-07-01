@@ -2,7 +2,7 @@ every armor has its own stats that are either randomly generated or applied by t
 
 Information:
 - Type (Helmet, Gauntlets...)
-- [[Armor Augment]]
+- [[Armor Augment]]s
 
 Stats:
 - Mass (knockback, damage resist)

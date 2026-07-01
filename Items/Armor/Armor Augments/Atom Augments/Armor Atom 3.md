@@ -1,0 +1,1 @@
+When your become critical, gain  increased movement speed for 2 seconds. (with cooldown)

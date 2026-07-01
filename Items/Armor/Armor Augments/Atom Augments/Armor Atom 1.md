@@ -1,0 +1,1 @@
+Gain resistance while sprinting or sliding

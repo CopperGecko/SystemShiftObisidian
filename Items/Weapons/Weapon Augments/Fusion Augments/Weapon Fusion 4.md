@@ -1,0 +1,1 @@
+Defeating enemies afflicted by [[Entropy]] or [[Excitate]] causes them to erupt in a small thermal burst that deals minor damage and spreads the applied keyword to one nearby enemy.

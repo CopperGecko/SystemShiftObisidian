@@ -1,0 +1,1 @@
+Collecting and [[Energy Orb]] grants energy to your least-charged ability.

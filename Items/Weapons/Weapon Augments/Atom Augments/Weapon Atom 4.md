@@ -1,0 +1,1 @@
+Deal increased damage to enemies above 90% health.

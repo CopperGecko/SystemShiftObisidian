@@ -1,0 +1,1 @@
+Reloading an empty magazine grants increased handling, reload speed, and stability for 6 seconds.

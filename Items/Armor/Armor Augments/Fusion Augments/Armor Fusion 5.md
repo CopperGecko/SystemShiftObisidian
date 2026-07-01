@@ -1,0 +1,1 @@
+While near enemies affected by [[Strain]] or [[Tether]], gain increased movement speed and damage resist.

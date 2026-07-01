@@ -1,0 +1,1 @@
+Enemies affected by [[Singularity]] or [[Collapse]] deal 15% less damage to you. Defeating an affected enemy slightly increases the duration of [[Orbit]] and [[Accretion]].

@@ -1,0 +1,1 @@
+Damaging enemies affected by [[Strain]] or [[Tether]] grants stacking handling. At maximum stacks, your next reload is significantly faster and overfills the magazine.

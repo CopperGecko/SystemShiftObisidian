@@ -1,0 +1,1 @@
+Defeating an enemy grants damage resistance for 5 seconds, stacking up to 3 times. Refreshing the duration does not add additional time.

@@ -1,0 +1,1 @@
+Nearby allies affected by [[Harmony]], or enemies affected by [[Resonance]], grant you damage resistance. Precision kills while this bonus is active restore a small amount of ability energy.

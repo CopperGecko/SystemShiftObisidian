@@ -1,1 +1,0 @@
-Slightly reduces incoming damage from environmental hazards and damage-over-time effects.
